@@ -1,2 +1,10 @@
 
 /* Your CSS Code here. */
+nav{
+	color: darkblue;
+	border: 2px dotted greenyellow;
+	font-family: sans-serif;
+	font-style: oblique;
+	font-weight: 900;
+	
+}
